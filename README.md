@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student+of+School+21+)](https://21-school.ru/)
 
 - 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me: [Telegram](https://t.me/GerasimovaAnya)
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
